@@ -1,10 +1,10 @@
 <div align="center">
   <h1>Welcome to Smart-Parking 👋🚗</h1>
-  <h3>Website for Smart-Parking Project Application : <a href="images/LOGO.png">Click Here!</a></h3>
+  <h3>Website for Smart-Parking Project Application : <a href="https://typhoon-30042004.github.io/SMART-PARKING/">Click Here!</a></h3>
 </div>
 
 <p align="center">
-<img src=""></a>
+<img src="images/LOGO.png"></a>
 </p>
 
 ## 📌 Repository
